@@ -1,4 +1,4 @@
-# Разработка сверточной нейронной сети
+# Разработка рекурентной нейронной сети
 
 Код [link](https://github.com/AnnaPakir/text_news/blob/main/text_news.ipynb)
 
